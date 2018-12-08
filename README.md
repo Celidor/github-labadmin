@@ -12,3 +12,7 @@ NAMEPREFIX="your-prefix"
 API_TOKEN_1="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 API_TOKEN_2="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
+* to delete all public repositories in all GitHub accounts:
+```
+./delete-repositories.sh
+```
